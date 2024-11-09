@@ -1,0 +1,2 @@
+2024-11-09 16:13:11 frij process_watcher[1660] INFO Process watcher started between parent 1578 and child 1611 
+2024-11-09 16:15:24 frij process_watcher[1660] INFO Child is not running anymore, launcher can terminate.
